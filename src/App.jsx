@@ -1,6 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 import "./App.css";
 import { useEffect } from "react";
 
@@ -16,12 +15,12 @@ function App() {
       setToParam(toValue);
     }
   }, []);
-  const [count, setCount] = useState(0);
 
   return (
     <>
-      <h1 className="text-6xl">Nikahan Malidni Windy</h1>
+      <h1 className="text-6xl">The Wedding of Windy Maldini</h1>
       <p className="text-black">Teruntuk {toParam}</p>
+      <img width={600} src="/og-image.jpg" alt="" />
     </>
   );
 }
