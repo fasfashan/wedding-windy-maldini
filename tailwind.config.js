@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      title: ['"Libre Caslon Display"'],
-      body: ['"Urbanist"'],
+      title: ['"Plus Jakarta Sans"'],
+      body: ['"Plus Jakarta Sans"'],
     },
   },
   plugins: [],

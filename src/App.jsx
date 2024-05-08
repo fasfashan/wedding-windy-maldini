@@ -18,7 +18,7 @@ function App() {
     <>
       <img className="w-full" src="/hero.jpg" alt="hero" />
       <div className="p-5 mt-10 text-center">
-        <h1 className="md:text-7xl text-4xl  text-center font-title ">
+        <h1 className="md:text-7xl text-4xl  text-center font-title font-medium ">
           The Wedding of <br /> Windy & Maldini
         </h1>
         <p className="text-center font-title md:text-4xl text-2xl mt-8">
@@ -55,21 +55,18 @@ function App() {
         </div>
       </div>
       <img className="w-full mt-10" src="/2.jpg" alt="2" />
-      <div className="grid md:grid-cols-3 grid-cols-1 gap-10 p-10">
+      <div className="grid md:grid-cols-3 grid-cols-2 gap-10 p-10">
         <img className="w-full mt-10" src="/3.jpg" alt="" />
         <img className="w-full mt-10" src="/4.jpg" alt="" />
         <img className="w-full mt-10" src="/5.jpg" alt="" />
-      </div>
-      <div className="grid md:grid-cols-3 grid-cols-1 gap-10 p-10">
         <img className="w-full mt-10" src="/6.jpg" alt="" />
         <img className="w-full mt-10" src="/7.jpg" alt="" />
         <img className="w-full mt-10" src="/8.jpg" alt="" />
-      </div>
-      <div className="grid md:grid-cols-3 grid-cols-1 gap-10 p-10">
         <img className="w-full mt-10" src="/9.jpg" alt="" />
         <img className="w-full mt-10" src="/10.jpg" alt="" />
-        <img className="w-full mt-10" src="/11.jpg" alt="" />
       </div>
+      <div className="grid md:grid-cols-3 grid-cols-1 gap-10 p-10"></div>
+      <div className="grid md:grid-cols-3 grid-cols-1 gap-10 p-10"></div>
     </>
   );
 }
