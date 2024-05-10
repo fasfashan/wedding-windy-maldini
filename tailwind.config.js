@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      title: ['"Plus Jakarta Sans"'],
-      body: ['"Plus Jakarta Sans"'],
+      title: ['"Jost'],
+      body: ['"Jost'],
     },
   },
   plugins: [],
