@@ -84,7 +84,7 @@ function App() {
         </div>
       </div>
       <img className="w-full mt-10" src="/2.jpg" alt="2" />
-      <div className="grid md:grid-cols-3 grid-cols-2 gap-10 p-10">
+      <div className="grid md:grid-cols-4 grid-cols-2 gap-10 p-10">
         <img className="w-full mt-10" src="/3.jpg" alt="" />
         <img className="w-full mt-10" src="/4.jpg" alt="" />
         <img className="w-full mt-10" src="/5.jpg" alt="" />
