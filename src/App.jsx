@@ -27,7 +27,7 @@ function App() {
           “ Dan di antara tanda-tanda kebesaran-Nya ialah diciptakannya untukmu
           pasangan hidup dari jenismu sendiri supaya kamu cenderung dan merasa
           tentram kepadanya dan dijadikan-Nya di antaramu rasa kasih dan sayang.
-          Sesungguhnya pada yang demikian itu menjadivtanda-tanda bagi kaum yang
+          Sesungguhnya pada yang demikian itu menjadi tanda-tanda bagi kaum yang
           berpikir. “ Ar-Rum : 21
         </p>
         <img width={250} src="/Bismillah.svg" className=" m-auto" alt="" />
